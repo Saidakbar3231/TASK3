@@ -33,6 +33,6 @@ Model qaror qabul qilishda quyidagi ko'rsatkichlarga eng ko'p tayanadi:
 2. **ph**
 3. **Hardness**
 
-## 💡 Xulosalar va Kelajakdagi Rejalar
+## Xulosalar va Kelajakdagi Rejalar
 * **Xulosa:** Model suvning yaroqsizligini aniqlashda juda yaxshi natija ko'rsatdi. Bu inson salomatligi uchun muhim, chunki xavfli suvni "xavfsiz" deb yubormaslik ustuvor vazifadir.
 * **Keyingi qadamlar:** Model aniqligini oshirish uchun *Hyperparameter Tuning* (GridSearchCV) o'tkazish va ko'proq ma'lumot to'plash.
